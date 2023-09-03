@@ -4,7 +4,7 @@
 
 ## _Gearing up for the future_
 
-![Alt text](<eastvale innovators banner (1).png>) <!-- .element height="50%" width="50%" -->
+![Banner of Eastvale Innovators](<eastvale innovators banner (1).png>) <!-- .element height="50%" width="50%" -->
 
 ## About Us
 
