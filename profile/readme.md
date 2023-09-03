@@ -1,6 +1,10 @@
-# Welcome to Eastvale Innovators
+# Welcome to
 
-<--! Image Here !-->
+# **Eastvale Innovators**
+
+## _Gearing up for the future_
+
+![Alt text](<eastvale innovators banner (1).png>) <!-- .element height="50%" width="50%" -->
 
 ## About Us
 
@@ -8,4 +12,10 @@
 
 ## Our Mission
 
+> To unite STEM pathways by providing opportunities for the student body by means of solving pressing issues presented by our community through projects and internships.
+
 ## Our Vision
+
+> Students develop skills with their peers and mentors alike in order to gain valuable real world experiences varying from technical to leadership abilities cultivating competent individuals.
+
+## Check out our most recent projects below!
